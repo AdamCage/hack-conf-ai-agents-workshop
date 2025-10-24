@@ -1,5 +1,7 @@
 # hack-conf-ai-agents-workshop · Millennial Assistant
 
+![alt text](logo.jpg)
+
 Персональный ассистент‑миллениал в n8n: Telegram‑бот, LLM‑агент и Google Sheets как источник правды.
 Минимум кода. Быстрый запуск на воркшопе.
 
@@ -8,6 +10,8 @@
 - n8n‑воркфлоу (`HackConfAIAgent.json`) с Telegram‑триггером, LLM‑агентом и инструментом чтения Google Sheets.
 - Готовые тексты: системный промпт и приветствие `/start`.
 - Пример таблицы с логами в формате Excel (`google_sheet_millennial_log.xlsx`).
+
+![alt text](n8n.png)
 
 ## Состав репозитория
 ```
